@@ -1,0 +1,13 @@
+[project]
+name = "spam-classifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "nltk>=3.9.1",
+    "numpy>=2.2.2",
+    "scikit-learn>=1.6.1",
+    "urlextract>=1.9.0",
+]
